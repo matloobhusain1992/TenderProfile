@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_progressbar.xml",
+        "source": "/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/src/main/res/layout/layout_progressbar.xml"
+    },
+    {
+        "merged": "/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tinder_card_view.xml",
+        "source": "/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/src/main/res/layout/tinder_card_view.xml"
+    },
+    {
+        "merged": "/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/src/main/res/layout/activity_main.xml"
+    }
+]

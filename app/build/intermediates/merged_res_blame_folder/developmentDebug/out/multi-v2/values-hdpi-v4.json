@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/build/intermediates/incremental/mergeDevelopmentDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/matloobhusain/.gradle/caches/transforms-2/files-2.1/147a6e7f9f7fc8aa5d9c7d6dea93c4ed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

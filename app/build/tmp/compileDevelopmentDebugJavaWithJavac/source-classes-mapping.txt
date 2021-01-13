@@ -1,0 +1,6 @@
+com/android/tinderprofile/databinding/LayoutProgressbarBinding.java
+ com.android.tinderprofile.databinding.LayoutProgressbarBinding
+com/android/tinderprofile/databinding/ActivityMainBinding.java
+ com.android.tinderprofile.databinding.ActivityMainBinding
+com/android/tinderprofile/BuildConfig.java
+ com.android.tinderprofile.BuildConfig

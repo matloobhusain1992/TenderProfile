@@ -1,0 +1,31 @@
+com/android/tinderprofile/DataBindingTriggerClass.java
+ com.android.tinderprofile.DataBindingTriggerClass
+com/android/tinderprofile/DataBinderMapperImpl.java
+ com.android.tinderprofile.DataBinderMapperImpl
+ com.android.tinderprofile.DataBinderMapperImpl$InnerBrLookup
+ com.android.tinderprofile.DataBinderMapperImpl$InnerLayoutIdLookup
+com/android/tinderprofile/data/local/room/UserRoomDatabase_Impl.java
+ com.android.tinderprofile.data.local.room.UserRoomDatabase_Impl
+ com.android.tinderprofile.data.local.room.UserRoomDatabase_Impl$1
+com/android/tinderprofile/databinding/LayoutProgressbarBinding.java
+ com.android.tinderprofile.databinding.LayoutProgressbarBinding
+com/android/tinderprofile/data/local/room/UserDao_Impl.java
+ com.android.tinderprofile.data.local.room.UserDao_Impl
+ com.android.tinderprofile.data.local.room.UserDao_Impl$1
+ com.android.tinderprofile.data.local.room.UserDao_Impl$2
+ com.android.tinderprofile.data.local.room.UserDao_Impl$3
+ com.android.tinderprofile.data.local.room.UserDao_Impl$4
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/android/tinderprofile/BR.java
+ com.android.tinderprofile.BR
+com/android/tinderprofile/databinding/ActivityMainBinding.java
+ com.android.tinderprofile.databinding.ActivityMainBinding
+com/android/tinderprofile/databinding/TinderCardViewBinding.java
+ com.android.tinderprofile.databinding.TinderCardViewBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/android/tinderprofile/BuildConfig.java
+ com.android.tinderprofile.BuildConfig
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent

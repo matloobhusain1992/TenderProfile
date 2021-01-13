@@ -1,0 +1,10 @@
+#Tue Jan 12 16:08:30 IST 2021
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/build/intermediates/dex/developmentDebug/mergeExtDexDevelopmentDebug/classes2.dex
+base.1=/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/build/intermediates/dex/developmentDebug/mergeProjectDexDevelopmentDebug/classes.dex
+base.0=/Users/matloobhusain/AndroidStudioProjects/ONE97PROJECT/TinderProfile/app/build/intermediates/dex/developmentDebug/mergeExtDexDevelopmentDebug/classes.dex

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TinderProfile</string>
+    <string name="no_internet">No internet</string>
+    <string name="connectionError">Server Error</string>
+    <string name="accept">ACCEPT</string>
+    <string name="decline">DECLINE</string>
+    <string name="member_accepted">member accepted</string>
+    <string name="member_declined">member declined</string>
+</resources>
